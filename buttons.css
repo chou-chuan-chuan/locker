@@ -1,0 +1,55 @@
+a{
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  line-height:40px;
+  border: solid 1px;
+  border-radius: 5px;
+  margin: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 40px;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*display: inline;
+  margin: auto;*/
+}
+
+img{
+  position:relative;
+  top: 15px;
+  width: 80vw;
+  height: 50vw;
+}
+
+
+
+/*.btn_ch_0:hover{
+  background-color: blue;
+  color: white;
+}
+
+.btn_ch_1:hover{
+  background-color: magenta;
+  color: white;
+}
+
+.btn_ch_2:hover{
+  background-color: red;
+  color: white;
+}
+.btn_ch_3:hover{
+  background-color: green;
+  color: white;
+}
+
+.btn_ch_4:hover{
+  background-color: gray;
+  color: white;
+}
+
+.btn_ch_5:hover{
+  background-color: black;
+  color: white;
+}*/
