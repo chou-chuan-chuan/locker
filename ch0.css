@@ -1,0 +1,18 @@
+.ch_name{
+  /*border: solid 1px;*/
+  height: 30px;
+  font-size: 26px;
+  font-family: serif;
+  /*height: fit-content;  
+  要怎麼讓border與字吻合? */
+}
+
+.ch_0{
+  /*border: solid 1px;*/
+  font-size: 18px;
+  position: relative;
+  top: 10px;
+  font-family: cursive;
+}
+
+/*有沒有辦法調段落間距*/
