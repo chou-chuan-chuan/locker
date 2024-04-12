@@ -7,7 +7,7 @@ $(document).ready(                                  		     /*javascript的東西
 			function(){
 				var a = $(".input").val();
 				if(a == "chou-chuan-chuan" ){
-					document.location.href="east_egg.html";
+					document.location.href="easter_egg.html";
 				} 
 				else if(a == "0"){
 					document.location.href="ch0.html";			 /*document就是這個頁面*/
