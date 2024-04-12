@@ -12,7 +12,7 @@ $(document).ready(                                  		     /*javascript的東西
 				else{
 					alert("hint:檢查->console");
 				}
-				console.log("123")
+				console.log("https://chou-chuan-chuan.github.io/locker/")
 			}
 		);
 	}
