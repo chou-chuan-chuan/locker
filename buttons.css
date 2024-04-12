@@ -4,13 +4,13 @@ a{
   width: 8%;
   height: 6%;
   text-align: center;
-  line-height: 150px;
+  line-height: 3vw;
   border: solid 1px;
   border-radius: 5px;
   margin: 20px;
   cursor: pointer;
   transition: 0.3s;
-  font-size: 5%;
+  font-size: 1.5vw;
   color: #000080;
   background-color: #F0F8FF;
   text-decoration: none;
@@ -76,3 +76,5 @@ a{
   background-color: black;
   color: white;
 }*/
+
+
