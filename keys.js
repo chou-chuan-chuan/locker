@@ -31,6 +31,8 @@ $(document).ready(                                  		     /*javascript的東西
 					alert("hint:檢查->console");
 				}
 				console.log("https://chou-chuan-chuan.github.io/locker/")
+				console.log("0-5")
+				console.log("chou-chuan-chuan")
 			}
 		);
 	}
