@@ -1,8 +1,8 @@
 a{
   position:relative;
   top:25vx;
-  width: 10%;
-  height: 8%;
+  width: 8%;
+  height: 6%;
   text-align: center;
   line-height: 150px;
   border: solid 1px;
@@ -10,7 +10,7 @@ a{
   margin: 20px;
   cursor: pointer;
   transition: 0.3s;
-  font-size: 9%;
+  font-size: 5%;
   color: #000080;
   background-color: #F0F8FF;
   text-decoration: none;
