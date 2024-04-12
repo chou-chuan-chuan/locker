@@ -6,9 +6,27 @@ $(document).ready(                                  		     /*javascript的東西
 			// }
 			function(){
 				var a = $(".input").val();
-				if(a == 1){
+				if(a == "chou-chuan-chuan" ){
+					document.location.href="east_egg.html";
+				} 
+				else if(a == "0"){
 					document.location.href="ch0.html";			 /*document就是這個頁面*/
-				}                                    
+				}  
+				else if(a == "1"){
+					document.location.href="ch1.html";			 /*document就是這個頁面*/
+				}  
+				else if(a == "2"){
+					document.location.href="ch2.html";			 /*document就是這個頁面*/
+				}				
+				else if(a == "3"){
+					document.location.href="ch3.html";			 /*document就是這個頁面*/
+				}  				
+				else if(a == "4"){
+					document.location.href="ch4.html";			 /*document就是這個頁面*/
+				}  				
+				else if(a == "5"){
+					document.location.href="ch5.html";			 /*document就是這個頁面*/
+				}                                   
 				else{
 					alert("hint:檢查->console");
 				}
