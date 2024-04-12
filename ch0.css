@@ -15,4 +15,79 @@
   font-family: cursive;
 }
 
-/*有沒有辦法調段落間距*/
+html, body{
+  margin-top: 5vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  padding: 0;
+}
+
+* {                                   /*讓它頁面不要左右滑動*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.back {
+    position: absolute;
+    color: white;
+    background-color: #C0C0C0;
+    Text-decoration: none;
+    top: 7.5vw;
+    transform: translateY(-50%);
+    width: 7vw;
+    height: 3vw;
+    font-size: 1.5vw;
+    text-align: center;
+    line-height: 3vw;
+    left: 3vw;
+    border-radius: 10px;
+    transition: 0.4s;
+}
+
+
+.image{
+    position: relative;
+    margin-left: 12%;
+    width: 57vw;
+    height: 80vh;
+    background-size: 100%;
+
+}
+
+
+.show{
+  border: solid 1px;
+}
+
+
+
+.border{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  justify-content: center;
+/*  border: solid 1px;*/
+  display: flex;
+  margin: auto;
+}
+
+
+
+
+.enter {
+    position: relative;
+    color: white;
+    background-color: skyblue;
+    Text-decoration: none;
+    top: 2.5vw;
+    transform: translateY(-50%);
+    width: 5vw;
+    height: 3vw;
+    font-size: 1.5vw;
+    text-align: center;
+    line-height: 3vw;
+    border-radius: 10px;
+    transition: 0.4s;
+}
