@@ -9,6 +9,9 @@ $(document).ready(                                  		     /*javascript的東西
 				if(a == "chou-chuan-chuan" ){
 					document.location.href="easter_egg.html";
 				} 
+				else if(a =="samuel-lee"){
+					document.location.href="love_seine.html";
+				}
 				else if(a == "0"){
 					document.location.href="ch0.html";			 /*document就是這個頁面*/
 				}  
