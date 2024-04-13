@@ -31,7 +31,7 @@ $(document).ready(                                  		     /*javascript的東西
 					document.location.href="ch5.html";			 /*document就是這個頁面*/
 				}                                   
 				else{
-					alert("hint:檢查->console");
+					alert("hahaha");
 				}
 				console.log("https://chou-chuan-chuan.github.io/locker/")
 				console.log("0-5")
