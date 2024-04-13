@@ -1,13 +1,12 @@
 a{
   position:relative;
-  top:25vx;
   width: 8%;
   height: 6%;
   text-align: center;
   line-height: 3vw;
   border: solid 1px;
   border-radius: 5px;
-/*  margin: 20px;*/
+  margin: 0.5vw;
   cursor: pointer;
   transition: 0.3s;
   font-size: 1.5vw;
@@ -17,7 +16,6 @@ a{
 /*  display: inline-block;*/
 /*  padding-left: 10px;*/
 /*  padding-right: 10px;*/
-/*  display: inline;*/
 /*  margin: auto;*/
 }
 
