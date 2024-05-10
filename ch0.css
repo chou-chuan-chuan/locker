@@ -1,8 +1,19 @@
-.ch_name{
-  /*border: solid 1px;*/
-  height: 30px;
-  font-size: 26px;
-  font-family: serif;
+.top {
+    width: 100vw;
+    height: 5vw;
+/*    background-image: url("point_zero.png");*/
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-color: #D5F3FE;
+    line-height: 15vw;
+    text-align: center;
+    color: white;
+    font-size: 4vw;
+    letter-spacing: 0.3vw;
+    border: solid;
+    border-color: #66D3FA;
+    font-family: serif;
   /*height: fit-content;  
   要怎麼讓border與字吻合? */
 }
